@@ -1,6 +1,6 @@
 # Pumpkin Carver 🎃
 
-A Halloween toy for Char and Vic. It's one self-contained `index.html` (canvas + vanilla JS) that makes no network requests and uses no web fonts, libraries, or images.
+A Halloween toy for Alex and Sam. It's one self-contained `index.html` (canvas + vanilla JS) that makes no network requests and uses no web fonts, libraries, or images.
 
 **Play:** http://127.0.0.1:4359/ (box) · or open `index.html` / `../out-oct15/pumpkin-carver.html` directly, works offline, AirDrop-able to iPhone/iPad.
 
